@@ -11,7 +11,7 @@ This project is a simple FastAPI-based application designed to read financial da
 ## 📖 Excel File Details
 
 The primary data source is the `capbudg.xlsx` file, which contains the following sheets (tables):
-
+Since i have save the data to latest xlsx format
 - **Sheet Names (Tables)**:
   1. **Input** — Contains initial investment, cashflow details, working capital, growth rates, and discount rate assumptions.
   2. **Operating Cashflows** — Shows year-wise calculations for revenues, expenses, depreciation, taxes, and net cash flows.
